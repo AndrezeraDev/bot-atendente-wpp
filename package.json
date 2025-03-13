@@ -1,0 +1,20 @@
+{
+  "name": "botwpp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Este é um bot para WhatsApp desenvolvido para automatizar o atendimento de uma barbearia.",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.16",
+    "puppeteer": "^21.3.8",
+    "puppeteer-core": "^24.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}

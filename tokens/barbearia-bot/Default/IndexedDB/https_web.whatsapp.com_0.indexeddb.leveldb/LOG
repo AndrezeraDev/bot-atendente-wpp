@@ -1,0 +1,26 @@
+2025/03/12-14:41:13.241 5f18 Reusing MANIFEST C:\Users\André Luis\botwpp\tokens\barbearia-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/12-14:41:13.241 5f18 Recovering log #157
+2025/03/12-14:41:13.275 5f18 Reusing old log C:\Users\André Luis\botwpp\tokens\barbearia-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000157.log 
+2025/03/12-14:41:14.681 64a0 Level-0 table #163: started
+2025/03/12-14:41:14.702 64a0 Level-0 table #163: 870860 bytes OK
+2025/03/12-14:41:14.704 64a0 Delete type=0 #157
+2025/03/12-14:41:14.705 64a0 Manual compaction at level-0 from '\x001\x00\x00\x00' @ 72057594037927935 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/12-14:41:14.709 5f18 Level-0 table #165: started
+2025/03/12-14:41:14.712 5f18 Level-0 table #165: 435 bytes OK
+2025/03/12-14:41:14.713 5f18 Delete type=0 #162
+2025/03/12-14:41:14.714 5f18 Manual compaction at level-0 from '\x002\x00\x00\x00' @ 72057594037927935 : 1 .. '\x003\x00\x00\x00' @ 0 : 0; will stop at '\x002\x00\x00\x05' @ 882474 : 0
+2025/03/12-14:41:14.714 5f18 Compacting 1@0 + 1@1 files
+2025/03/12-14:41:14.734 5f18 Generated table #166@0: 34456 keys, 497667 bytes
+2025/03/12-14:41:14.734 5f18 Compacted 1@0 + 1@1 files => 497667 bytes
+2025/03/12-14:41:14.735 5f18 compacted to: files[ 0 1 2 0 0 0 0 ]
+2025/03/12-14:41:14.736 5f18 Delete type=2 #165
+2025/03/12-14:41:14.736 5f18 Manual compaction at level-0 from '\x002\x00\x00\x05' @ 882474 : 0 .. '\x003\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/12-14:41:15.465 3bd4 Compacting 1@1 + 2@2 files
+2025/03/12-14:41:15.516 3bd4 Generated table #167@1: 25261 keys, 2194932 bytes
+2025/03/12-14:41:15.560 3bd4 Generated table #168@1: 67970 keys, 1906883 bytes
+2025/03/12-14:41:15.560 3bd4 Compacted 1@1 + 2@2 files => 4101815 bytes
+2025/03/12-14:41:15.561 3bd4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/03/12-14:41:15.561 3bd4 Delete type=2 #159
+2025/03/12-14:41:15.561 3bd4 Delete type=2 #160
+2025/03/12-14:41:15.561 3bd4 Delete type=2 #163
+2025/03/12-14:41:15.561 3bd4 Delete type=2 #166
